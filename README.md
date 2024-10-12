@@ -1,9 +1,14 @@
 # Measurement-Converter
 
-[![Static Badge](https://img.shields.io/badge/swing-pink)](https://www.javatpoint.com/java-swing)
-[![Static Badge](https://img.shields.io/badge/Border-blue)](https://docs.oracle.com/javase%2Ftutorial%2Fuiswing%2F%2F/components/border.html)
-[![Static Badge](https://img.shields.io/badge/Random-green)](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
-[![Static Badge](https://img.shields.io/badge/AtomicBoolean-white)](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/atomic/AtomicBoolean.html)
+[![Static Badge](https://img.shields.io/badge/javax.swing.*-blue)](https://mvnrepository.com/artifact/javax.swing.*)
+[![Static Badge](https://img.shields.io/badge/javax.swing.border.Border-olive)](https://mvnrepository.com/artifact/javax.swing.border.Border)
+[![Static Badge](https://img.shields.io/badge/java.awt.*-yellow)](https://mvnrepository.com/artifact/java.awt.*)
+[![Static Badge](https://img.shields.io/badge/java.awt.event.ActionEvent-blue)](https://mvnrepository.com/artifact/java.awt.event.ActionEvent)
+[![Static Badge](https://img.shields.io/badge/java.awt.event.ActionListener-pink)](https://mvnrepository.com/artifact/java.awt.event.ActionListener)
+[![Static Badge](https://img.shields.io/badge/java.util.Random-pink)](https://mvnrepository.com/artifact/java.util.Random)
+[![Static Badge](https://img.shields.io/badge/java.util.*-brown)](https://mvnrepository.com/artifact/java.util.*)
+[![Static Badge](https://img.shields.io/badge/java.util.concurrent.atomic.AtomicBoolean-cyan)](https://mvnrepository.com/artifact/java.util.concurrent.atomic.AtomicBoolean)
+
 
 The Java code you uploaded is for a graphical application using Swing, a part of Java's standard GUI library. The application presents a series of arithmetic challenges to the user, allowing them to interact through a GUI to solve equations, skip them, or submit answers. The main components include the App Class, which sets up the JFrame, the ShowEquationType Class, ShowEquation Class, ShowButtons Class, and ShowNotification Class. Key functionalities include random equation generation, user interaction, and a feedback system. The UI layout uses a GridLayout, making the interface organized and easy to interact with. This application could be used for educational purposes, providing a simple and interactive way for students to practice basic arithmetic operations.
 
